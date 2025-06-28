@@ -1,8 +1,8 @@
-Flask==2.3.3
-flask-cors==4.0.0
-flask-sqlalchemy==3.1.1
-python-dotenv==1.0.1
-Werkzeug==3.0.1
-Flasgger==0.9.7.1
-psycopg2-binary==2.9.9
+Flask
+flask-cors
+flask-sqlalchemy
+python-dotenv
+Werkzeug
+Flasgger
+psycopg2-binary
 gunicorn
